@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cezar\\source\\repos\\EncryptProjectTSI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E68B146-C261-4B9F-B632-E115E20E7A9C}|..\\EncryptionLibrary\\EncryptionLibrary\\EncryptionLibrary.csproj|c:\\users\\cezar\\source\\repos\\encryptionlibrary\\encryptionlibrary\\encryptioncode\\keygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E68B146-C261-4B9F-B632-E115E20E7A9C}|..\\EncryptionLibrary\\EncryptionLibrary\\EncryptionLibrary.csproj|c:\\users\\cezar\\source\\repos\\encryptionlibrary\\encryptionlibrary\\encryptioncode\\asymmetric\\rsaalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|c:\\users\\cezar\\source\\repos\\encryptprojecttsi\\encryptprojecttsi\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|solutionrelative:encryptprojecttsi\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|c:\\users\\cezar\\source\\repos\\encryptprojecttsi\\encryptprojecttsi\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|solutionrelative:encryptprojecttsi\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|c:\\users\\cezar\\source\\repos\\encryptprojecttsi\\encryptprojecttsi\\views\\usercontrols\\inputtext.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|solutionrelative:encryptprojecttsi\\views\\usercontrols\\inputtext.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|c:\\users\\cezar\\source\\repos\\encryptprojecttsi\\encryptprojecttsi\\views\\usercontrols\\inputtext.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|solutionrelative:encryptprojecttsi\\views\\usercontrols\\inputtext.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|c:\\users\\cezar\\source\\repos\\encryptprojecttsi\\encryptprojecttsi\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|solutionrelative:encryptprojecttsi\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KeyGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Cezar\\source\\repos\\EncryptionLibrary\\EncryptionLibrary\\EncryptionCode\\KeyGenerator.cs",
+              "RelativeDocumentMoniker": "..\\EncryptionLibrary\\EncryptionLibrary\\EncryptionCode\\KeyGenerator.cs",
+              "ToolTip": "C:\\Users\\Cezar\\source\\repos\\EncryptionLibrary\\EncryptionLibrary\\EncryptionCode\\KeyGenerator.cs",
+              "RelativeToolTip": "..\\EncryptionLibrary\\EncryptionLibrary\\EncryptionCode\\KeyGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T19:10:13.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RSAalgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\Cezar\\source\\repos\\EncryptionLibrary\\EncryptionLibrary\\EncryptionCode\\Asymmetric\\RSAalgorithm.cs",
+              "RelativeDocumentMoniker": "..\\EncryptionLibrary\\EncryptionLibrary\\EncryptionCode\\Asymmetric\\RSAalgorithm.cs",
+              "ToolTip": "C:\\Users\\Cezar\\source\\repos\\EncryptionLibrary\\EncryptionLibrary\\EncryptionCode\\Asymmetric\\RSAalgorithm.cs",
+              "RelativeToolTip": "..\\EncryptionLibrary\\EncryptionLibrary\\EncryptionCode\\Asymmetric\\RSAalgorithm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T16:33:53.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InputText.xaml",
+              "DocumentMoniker": "C:\\Users\\Cezar\\source\\repos\\EncryptProjectTSI\\EncryptProjectTSI\\Views\\UserControls\\InputText.xaml",
+              "RelativeDocumentMoniker": "EncryptProjectTSI\\Views\\UserControls\\InputText.xaml",
+              "ToolTip": "C:\\Users\\Cezar\\source\\repos\\EncryptProjectTSI\\EncryptProjectTSI\\Views\\UserControls\\InputText.xaml",
+              "RelativeToolTip": "EncryptProjectTSI\\Views\\UserControls\\InputText.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-11T14:17:06.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Cezar\\source\\repos\\EncryptProjectTSI\\EncryptProjectTSI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "EncryptProjectTSI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Cezar\\source\\repos\\EncryptProjectTSI\\EncryptProjectTSI\\MainWindow.xaml",
+              "RelativeToolTip": "EncryptProjectTSI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-05T06:16:50.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Cezar\\source\\repos\\EncryptProjectTSI\\EncryptProjectTSI\\App.xaml.cs",
+              "RelativeDocumentMoniker": "EncryptProjectTSI\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Cezar\\source\\repos\\EncryptProjectTSI\\EncryptProjectTSI\\App.xaml.cs",
+              "RelativeToolTip": "EncryptProjectTSI\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T06:19:56.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Cezar\\source\\repos\\EncryptProjectTSI\\EncryptProjectTSI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EncryptProjectTSI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Cezar\\source\\repos\\EncryptProjectTSI\\EncryptProjectTSI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "EncryptProjectTSI\\MainWindow.xaml.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAgwEsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T06:16:48.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InputText.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Cezar\\source\\repos\\EncryptProjectTSI\\EncryptProjectTSI\\Views\\UserControls\\InputText.xaml.cs",
+              "RelativeDocumentMoniker": "EncryptProjectTSI\\Views\\UserControls\\InputText.xaml.cs",
+              "ToolTip": "C:\\Users\\Cezar\\source\\repos\\EncryptProjectTSI\\EncryptProjectTSI\\Views\\UserControls\\InputText.xaml.cs",
+              "RelativeToolTip": "EncryptProjectTSI\\Views\\UserControls\\InputText.xaml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T14:17:31.597Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

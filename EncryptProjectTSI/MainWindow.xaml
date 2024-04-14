@@ -1,0 +1,85 @@
+﻿<Window x:Class="EncryptProjectTSI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EncryptProjectTSI"
+        xmlns:userControl="clr-namespace:EncryptProjectTSI.Views.UserControls"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition/>
+            <RowDefinition Height="140"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Rectangle Fill="LightSeaGreen"/>
+            <Grid Grid.Column="0">
+                <Menu>
+                    <MenuItem Name="Simetric" Header="Simetric" FontSize="16" Height="50" Width="120" VerticalContentAlignment="Center" HorizontalContentAlignment="Center">
+                        <MenuItem Header="RSA" FontSize="16"/>
+                    </MenuItem>
+                </Menu>
+            </Grid>
+            <Grid Grid.Column="1">
+                <Menu>
+                    <MenuItem Name="Asimetric" Header="Asimetric" FontSize="16" Height="50" Width="120" VerticalContentAlignment="Center" HorizontalContentAlignment="Center">
+                        <MenuItem Header="RSA" FontSize="16"/>
+                    </MenuItem>
+                </Menu>
+            </Grid>
+            <Grid Grid.Column="2">
+                <Menu>
+                    <MenuItem Name="DigitalSign" Header="Digital Sign" FontSize="16" Height="50" Width="120" VerticalContentAlignment="Center" HorizontalContentAlignment="Center">
+                        <MenuItem Header="RSA" FontSize="16"/>
+                    </MenuItem>
+                </Menu>
+            </Grid>
+            <Grid Grid.Column="3">
+                <Button x:Name="Encrypt" Content="Encrypt" HorizontalAlignment="Right" VerticalAlignment="Top" Click="Encrypt_Click" />
+                <Button x:Name="Decrypt" Content="Decrypt" HorizontalAlignment="Right" VerticalAlignment="Bottom" Click="Decrypt_Click" />
+            </Grid>
+        </Grid>
+        
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Grid Grid.Column="0">
+                <Rectangle Fill="LightGray"/>
+                <userControl:InputText x:Name="Input" Height="auto" Width="auto" Placeholder="Text Input" />
+            </Grid>
+
+            <Grid Grid.Column="1">
+                <Rectangle Fill="LightGoldenrodYellow" />
+                <userControl:InputText x:Name="Output" Height="auto" Width="auto" Placeholder="Text Output" />
+            </Grid>
+            
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Grid Grid.Column="0">
+                <Rectangle Fill="DimGray"/>
+                <userControl:InputText x:Name="PublicKey" Height="auto" Width="auto" Placeholder="Public Key" />
+            </Grid>
+            <Grid Grid.Column="1">
+                <Rectangle Fill="DimGray"/>
+                <userControl:InputText x:Name="PrivateKey" Height="auto" Width="auto" Placeholder="Private Key" />
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>
