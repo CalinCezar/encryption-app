@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cezar\\source\\repos\\EncryptProjectTSI\\EncryptProjectTSI\\EncryptProjectTSI.csproj",
+      "projectUniqueName": "C:\\Users\\Cezar\\source\\repos\\encryption-app\\EncryptProjectTSI\\EncryptProjectTSI.csproj",
       "projectName": "EncryptProjectTSI",
-      "projectPath": "C:\\Users\\Cezar\\source\\repos\\EncryptProjectTSI\\EncryptProjectTSI\\EncryptProjectTSI.csproj",
+      "projectPath": "C:\\Users\\Cezar\\source\\repos\\encryption-app\\EncryptProjectTSI\\EncryptProjectTSI.csproj",
       "packagesPath": "C:\\Users\\Cezar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cezar\\source\\repos\\EncryptProjectTSI\\EncryptProjectTSI\\obj\\",
+      "outputPath": "C:\\Users\\Cezar\\source\\repos\\encryption-app\\EncryptProjectTSI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Cezar\\AppData\\Roaming\\NuGet\\NuGet.Config",

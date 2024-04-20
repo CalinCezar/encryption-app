@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3g1Rpus8nLbJlcyx4syo7a8vUpb6nLDPXeKPZ/RhAO+X+1MtKyioXzrf86z7m0wUcKyx3NqQkwfjbnoifURLtQ==",
+  "dgSpecHash": "7K4thGG3bJHbRK56PMfO1zW819Rv/q++djxAyPhxfU6jRvANMKa1DeBf5dHmcUHgX7eYTZobf6jYLtns5Qg+AA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cezar\\source\\repos\\EncryptProjectTSI\\EncryptProjectTSI\\EncryptProjectTSI.csproj",
+  "projectFilePath": "C:\\Users\\Cezar\\source\\repos\\encryption-app\\EncryptProjectTSI\\EncryptProjectTSI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

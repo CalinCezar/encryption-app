@@ -14,41 +14,29 @@
             <RowDefinition Height="140"/>
         </Grid.RowDefinitions>
 
-        <Grid Grid.Row="0">
-            <Grid.ColumnDefinitions>
-                <ColumnDefinition/>
-                <ColumnDefinition/>
-                <ColumnDefinition/>
-                <ColumnDefinition/>
-            </Grid.ColumnDefinitions>
-            <Rectangle Fill="LightSeaGreen"/>
-            <Grid Grid.Column="0">
-                <Menu>
-                    <MenuItem Name="Simetric" Header="Simetric" FontSize="16" Height="50" Width="120" VerticalContentAlignment="Center" HorizontalContentAlignment="Center">
-                        <MenuItem Header="RSA" FontSize="16"/>
-                    </MenuItem>
-                </Menu>
-            </Grid>
-            <Grid Grid.Column="1">
-                <Menu>
-                    <MenuItem Name="Asimetric" Header="Asimetric" FontSize="16" Height="50" Width="120" VerticalContentAlignment="Center" HorizontalContentAlignment="Center">
-                        <MenuItem Header="RSA" FontSize="16"/>
-                    </MenuItem>
-                </Menu>
-            </Grid>
-            <Grid Grid.Column="2">
-                <Menu>
-                    <MenuItem Name="DigitalSign" Header="Digital Sign" FontSize="16" Height="50" Width="120" VerticalContentAlignment="Center" HorizontalContentAlignment="Center">
-                        <MenuItem Header="RSA" FontSize="16"/>
-                    </MenuItem>
-                </Menu>
-            </Grid>
-            <Grid Grid.Column="3">
-                <Button x:Name="Encrypt" Content="Encrypt" HorizontalAlignment="Right" VerticalAlignment="Top" Click="Encrypt_Click" />
-                <Button x:Name="Decrypt" Content="Decrypt" HorizontalAlignment="Right" VerticalAlignment="Bottom" Click="Decrypt_Click" />
-            </Grid>
-        </Grid>
-        
+        <StackPanel Orientation="Horizontal">
+            <Menu>
+                <MenuItem Name="Simetric" Header="Simetric" FontSize="16" Height="50" Width="120" VerticalContentAlignment="Center" HorizontalContentAlignment="Center">
+                    <MenuItem Header="RSA" FontSize="16" Click="ShowSymmetricEncryptionWindow"/>
+                </MenuItem>
+            </Menu>
+            <Menu>
+                <MenuItem Name="Asimetric" Header="Asimetric" FontSize="16" Height="50" Width="120" VerticalContentAlignment="Center" HorizontalContentAlignment="Center">
+                    <MenuItem Header="RSA" FontSize="16" Click="ShowAsymmetricEncryptionWindow"/>
+                </MenuItem>
+            </Menu>
+            <Menu>
+                <MenuItem Name="DigitalSign" Header="Digital Sign" FontSize="16" Height="50" Width="120" VerticalContentAlignment="Center" HorizontalContentAlignment="Center">
+                    <MenuItem Header="RSA" FontSize="16" Click="ShowDigitalSignatureWindow"/>
+                </MenuItem>
+            </Menu>
+            <Button x:Name="Encrypt" Content="Encrypt" FontSize="16" Height="auto" Width="80" Click="Encrypt_Click"/>
+            <Button x:Name="Decrypt" Content="Decrypt" FontSize="16" Height="auto" Width="80" Click="Decrypt_Click"/>
+            <Button x:Name="Reverse" Height="50" Width="60" Click="Reverse_Click">
+                <Image Source ="/images/reverse.png" Width="40" Height="40"/>
+            </Button>
+        </StackPanel>
+
         <Grid Grid.Row="1">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition/>
@@ -64,7 +52,7 @@
                 <Rectangle Fill="LightGoldenrodYellow" />
                 <userControl:InputText x:Name="Output" Height="auto" Width="auto" Placeholder="Text Output" />
             </Grid>
-            
+
         </Grid>
         <Grid Grid.Row="2">
             <Grid.ColumnDefinitions>
@@ -78,8 +66,9 @@
             </Grid>
             <Grid Grid.Column="1">
                 <Rectangle Fill="DimGray"/>
-                <userControl:InputText x:Name="PrivateKey" Height="auto" Width="auto" Placeholder="Private Key" />
+                <userControl:InputText x:Name="PrivateKey" Height="auto" Width="auto" Placeholder="Privat Key" />
             </Grid>
         </Grid>
     </Grid>
 </Window>
+

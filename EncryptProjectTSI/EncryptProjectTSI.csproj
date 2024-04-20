@@ -9,11 +9,19 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="images\reverse1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Views\UserControls" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\..\EncryptionLibrary\EncryptionLibrary\EncryptionLibrary.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="images\reverse1.png" />
   </ItemGroup>
 
 </Project>
