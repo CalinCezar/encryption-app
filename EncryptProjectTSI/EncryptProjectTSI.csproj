@@ -13,10 +13,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Views\UserControls" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\..\EncryptionLibrary\EncryptionLibrary\EncryptionLibrary.csproj" />
   </ItemGroup>
 

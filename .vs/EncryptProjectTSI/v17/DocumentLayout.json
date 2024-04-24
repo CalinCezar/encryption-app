@@ -1,0 +1,301 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cezar\\source\\repos\\encryption-app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|c:\\users\\cezar\\source\\repos\\encryption-app\\encryptprojecttsi\\mvvm\\views\\asymmetricview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|solutionrelative:encryptprojecttsi\\mvvm\\views\\asymmetricview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E68B146-C261-4B9F-B632-E115E20E7A9C}|..\\EncryptionLibrary\\EncryptionLibrary\\EncryptionLibrary.csproj|c:\\users\\cezar\\source\\repos\\encryptionlibrary\\encryptionlibrary\\encryptioncode\\asymmetric\\rsaalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|c:\\users\\cezar\\source\\repos\\encryption-app\\encryptprojecttsi\\mvvm\\viewmodels\\asymmetricviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|solutionrelative:encryptprojecttsi\\mvvm\\viewmodels\\asymmetricviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E68B146-C261-4B9F-B632-E115E20E7A9C}|..\\EncryptionLibrary\\EncryptionLibrary\\EncryptionLibrary.csproj|c:\\users\\cezar\\source\\repos\\encryptionlibrary\\encryptionlibrary\\encryptioncode\\asymmetric\\keygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E68B146-C261-4B9F-B632-E115E20E7A9C}|..\\EncryptionLibrary\\EncryptionLibrary\\EncryptionLibrary.csproj|c:\\users\\cezar\\source\\repos\\encryptionlibrary\\encryptionlibrary\\encryptioncode\\asymmetric\\myrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E68B146-C261-4B9F-B632-E115E20E7A9C}|..\\EncryptionLibrary\\EncryptionLibrary\\EncryptionLibrary.csproj|c:\\users\\cezar\\source\\repos\\encryptionlibrary\\encryptionlibrary\\encryptioncode\\symmetric\\aesalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|c:\\users\\cezar\\source\\repos\\encryption-app\\encryptprojecttsi\\mvvm\\viewmodels\\digitalsignatureviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|solutionrelative:encryptprojecttsi\\mvvm\\viewmodels\\digitalsignatureviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|c:\\users\\cezar\\source\\repos\\encryption-app\\encryptprojecttsi\\mvvm\\views\\digitalsignatureview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|solutionrelative:encryptprojecttsi\\mvvm\\views\\digitalsignatureview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|c:\\users\\cezar\\source\\repos\\encryption-app\\encryptprojecttsi\\mvvm\\views\\asymmetricview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|solutionrelative:encryptprojecttsi\\mvvm\\views\\asymmetricview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|c:\\users\\cezar\\source\\repos\\encryption-app\\encryptprojecttsi\\mvvm\\views\\digitalsignatureview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|solutionrelative:encryptprojecttsi\\mvvm\\views\\digitalsignatureview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|c:\\users\\cezar\\source\\repos\\encryption-app\\encryptprojecttsi\\mvvm\\viewmodels\\symmetricviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|solutionrelative:encryptprojecttsi\\mvvm\\viewmodels\\symmetricviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|c:\\users\\cezar\\source\\repos\\encryption-app\\encryptprojecttsi\\mvvm\\models\\digitalsignaturemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|solutionrelative:encryptprojecttsi\\mvvm\\models\\digitalsignaturemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|c:\\users\\cezar\\source\\repos\\encryption-app\\encryptprojecttsi\\mvvm\\models\\symmetricmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|solutionrelative:encryptprojecttsi\\mvvm\\models\\symmetricmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|c:\\users\\cezar\\source\\repos\\encryption-app\\encryptprojecttsi\\mvvm\\models\\asymmetricmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|solutionrelative:encryptprojecttsi\\mvvm\\models\\asymmetricmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|c:\\users\\cezar\\source\\repos\\encryption-app\\encryptprojecttsi\\mvvm\\views\\symmetricview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|solutionrelative:encryptprojecttsi\\mvvm\\views\\symmetricview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|c:\\users\\cezar\\source\\repos\\encryption-app\\encryptprojecttsi\\mvvm\\views\\symmetricview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|solutionrelative:encryptprojecttsi\\mvvm\\views\\symmetricview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|c:\\users\\cezar\\source\\repos\\encryption-app\\encryptprojecttsi\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|solutionrelative:encryptprojecttsi\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|c:\\users\\cezar\\source\\repos\\encryption-app\\encryptprojecttsi\\mvvm\\models\\basekeymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D67DE43-3F75-453B-90C4-1A21C5158A76}|EncryptProjectTSI\\EncryptProjectTSI.csproj|solutionrelative:encryptprojecttsi\\mvvm\\models\\basekeymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyRandom.cs",
+              "DocumentMoniker": "C:\\Users\\Cezar\\source\\repos\\EncryptionLibrary\\EncryptionLibrary\\EncryptionCode\\Asymmetric\\MyRandom.cs",
+              "RelativeDocumentMoniker": "..\\EncryptionLibrary\\EncryptionLibrary\\EncryptionCode\\Asymmetric\\MyRandom.cs",
+              "ToolTip": "C:\\Users\\Cezar\\source\\repos\\EncryptionLibrary\\EncryptionLibrary\\EncryptionCode\\Asymmetric\\MyRandom.cs",
+              "RelativeToolTip": "..\\EncryptionLibrary\\EncryptionLibrary\\EncryptionCode\\Asymmetric\\MyRandom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:21:11.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KeyGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Cezar\\source\\repos\\EncryptionLibrary\\EncryptionLibrary\\EncryptionCode\\Asymmetric\\KeyGenerator.cs",
+              "RelativeDocumentMoniker": "..\\EncryptionLibrary\\EncryptionLibrary\\EncryptionCode\\Asymmetric\\KeyGenerator.cs",
+              "ToolTip": "C:\\Users\\Cezar\\source\\repos\\EncryptionLibrary\\EncryptionLibrary\\EncryptionCode\\Asymmetric\\KeyGenerator.cs",
+              "RelativeToolTip": "..\\EncryptionLibrary\\EncryptionLibrary\\EncryptionCode\\Asymmetric\\KeyGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:21:08.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DigitalSignatureModel.cs",
+              "DocumentMoniker": "C:\\Users\\Cezar\\source\\repos\\encryption-app\\EncryptProjectTSI\\MVVM\\Models\\DigitalSignatureModel.cs",
+              "RelativeDocumentMoniker": "EncryptProjectTSI\\MVVM\\Models\\DigitalSignatureModel.cs",
+              "ToolTip": "C:\\Users\\Cezar\\source\\repos\\encryption-app\\EncryptProjectTSI\\MVVM\\Models\\DigitalSignatureModel.cs",
+              "RelativeToolTip": "EncryptProjectTSI\\MVVM\\Models\\DigitalSignatureModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T10:46:44.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Cezar\\source\\repos\\encryption-app\\EncryptProjectTSI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "EncryptProjectTSI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Cezar\\source\\repos\\encryption-app\\EncryptProjectTSI\\MainWindow.xaml",
+              "RelativeToolTip": "EncryptProjectTSI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-24T00:35:30.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DigitalSignatureViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Cezar\\source\\repos\\encryption-app\\EncryptProjectTSI\\MVVM\\ViewModels\\DigitalSignatureViewModel.cs",
+              "RelativeDocumentMoniker": "EncryptProjectTSI\\MVVM\\ViewModels\\DigitalSignatureViewModel.cs",
+              "ToolTip": "C:\\Users\\Cezar\\source\\repos\\encryption-app\\EncryptProjectTSI\\MVVM\\ViewModels\\DigitalSignatureViewModel.cs",
+              "RelativeToolTip": "EncryptProjectTSI\\MVVM\\ViewModels\\DigitalSignatureViewModel.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwCQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T00:31:09.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SymmetricModel.cs",
+              "DocumentMoniker": "C:\\Users\\Cezar\\source\\repos\\encryption-app\\EncryptProjectTSI\\MVVM\\Models\\SymmetricModel.cs",
+              "RelativeDocumentMoniker": "EncryptProjectTSI\\MVVM\\Models\\SymmetricModel.cs",
+              "ToolTip": "C:\\Users\\Cezar\\source\\repos\\encryption-app\\EncryptProjectTSI\\MVVM\\Models\\SymmetricModel.cs",
+              "RelativeToolTip": "EncryptProjectTSI\\MVVM\\Models\\SymmetricModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T00:07:47.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AESalgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\Cezar\\source\\repos\\EncryptionLibrary\\EncryptionLibrary\\EncryptionCode\\Symmetric\\AESalgorithm.cs",
+              "RelativeDocumentMoniker": "..\\EncryptionLibrary\\EncryptionLibrary\\EncryptionCode\\Symmetric\\AESalgorithm.cs",
+              "ToolTip": "C:\\Users\\Cezar\\source\\repos\\EncryptionLibrary\\EncryptionLibrary\\EncryptionCode\\Symmetric\\AESalgorithm.cs",
+              "RelativeToolTip": "..\\EncryptionLibrary\\EncryptionLibrary\\EncryptionCode\\Symmetric\\AESalgorithm.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAwEMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T23:22:47.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SymmetricViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Cezar\\source\\repos\\encryption-app\\EncryptProjectTSI\\MVVM\\ViewModels\\SymmetricViewModel.cs",
+              "RelativeDocumentMoniker": "EncryptProjectTSI\\MVVM\\ViewModels\\SymmetricViewModel.cs",
+              "ToolTip": "C:\\Users\\Cezar\\source\\repos\\encryption-app\\EncryptProjectTSI\\MVVM\\ViewModels\\SymmetricViewModel.cs",
+              "RelativeToolTip": "EncryptProjectTSI\\MVVM\\ViewModels\\SymmetricViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T22:45:27.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RSAalgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\Cezar\\source\\repos\\EncryptionLibrary\\EncryptionLibrary\\EncryptionCode\\Asymmetric\\RSAalgorithm.cs",
+              "RelativeDocumentMoniker": "..\\EncryptionLibrary\\EncryptionLibrary\\EncryptionCode\\Asymmetric\\RSAalgorithm.cs",
+              "ToolTip": "C:\\Users\\Cezar\\source\\repos\\EncryptionLibrary\\EncryptionLibrary\\EncryptionCode\\Asymmetric\\RSAalgorithm.cs",
+              "RelativeToolTip": "..\\EncryptionLibrary\\EncryptionLibrary\\EncryptionCode\\Asymmetric\\RSAalgorithm.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwGkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T22:42:46.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AsymmetricViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Cezar\\source\\repos\\encryption-app\\EncryptProjectTSI\\MVVM\\ViewModels\\AsymmetricViewModel.cs",
+              "RelativeDocumentMoniker": "EncryptProjectTSI\\MVVM\\ViewModels\\AsymmetricViewModel.cs",
+              "ToolTip": "C:\\Users\\Cezar\\source\\repos\\encryption-app\\EncryptProjectTSI\\MVVM\\ViewModels\\AsymmetricViewModel.cs",
+              "RelativeToolTip": "EncryptProjectTSI\\MVVM\\ViewModels\\AsymmetricViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T22:40:59.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseKeyModel.cs",
+              "DocumentMoniker": "C:\\Users\\Cezar\\source\\repos\\encryption-app\\EncryptProjectTSI\\MVVM\\Models\\BaseKeyModel.cs",
+              "RelativeDocumentMoniker": "EncryptProjectTSI\\MVVM\\Models\\BaseKeyModel.cs",
+              "ToolTip": "C:\\Users\\Cezar\\source\\repos\\encryption-app\\EncryptProjectTSI\\MVVM\\Models\\BaseKeyModel.cs",
+              "RelativeToolTip": "EncryptProjectTSI\\MVVM\\Models\\BaseKeyModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T22:39:38.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AsymmetricModel.cs",
+              "DocumentMoniker": "C:\\Users\\Cezar\\source\\repos\\encryption-app\\EncryptProjectTSI\\MVVM\\Models\\AsymmetricModel.cs",
+              "RelativeDocumentMoniker": "EncryptProjectTSI\\MVVM\\Models\\AsymmetricModel.cs",
+              "ToolTip": "C:\\Users\\Cezar\\source\\repos\\encryption-app\\EncryptProjectTSI\\MVVM\\Models\\AsymmetricModel.cs",
+              "RelativeToolTip": "EncryptProjectTSI\\MVVM\\Models\\AsymmetricModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T22:39:28.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DigitalSignatureView.xaml",
+              "DocumentMoniker": "C:\\Users\\Cezar\\source\\repos\\encryption-app\\EncryptProjectTSI\\MVVM\\Views\\DigitalSignatureView.xaml",
+              "RelativeDocumentMoniker": "EncryptProjectTSI\\MVVM\\Views\\DigitalSignatureView.xaml",
+              "ToolTip": "C:\\Users\\Cezar\\source\\repos\\encryption-app\\EncryptProjectTSI\\MVVM\\Views\\DigitalSignatureView.xaml",
+              "RelativeToolTip": "EncryptProjectTSI\\MVVM\\Views\\DigitalSignatureView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-23T20:58:00.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AsymmetricView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Cezar\\source\\repos\\encryption-app\\EncryptProjectTSI\\MVVM\\Views\\AsymmetricView.xaml.cs",
+              "RelativeDocumentMoniker": "EncryptProjectTSI\\MVVM\\Views\\AsymmetricView.xaml.cs",
+              "ToolTip": "C:\\Users\\Cezar\\source\\repos\\encryption-app\\EncryptProjectTSI\\MVVM\\Views\\AsymmetricView.xaml.cs",
+              "RelativeToolTip": "EncryptProjectTSI\\MVVM\\Views\\AsymmetricView.xaml.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T20:57:31.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AsymmetricView.xaml",
+              "DocumentMoniker": "C:\\Users\\Cezar\\source\\repos\\encryption-app\\EncryptProjectTSI\\MVVM\\Views\\AsymmetricView.xaml",
+              "RelativeDocumentMoniker": "EncryptProjectTSI\\MVVM\\Views\\AsymmetricView.xaml",
+              "ToolTip": "C:\\Users\\Cezar\\source\\repos\\encryption-app\\EncryptProjectTSI\\MVVM\\Views\\AsymmetricView.xaml",
+              "RelativeToolTip": "EncryptProjectTSI\\MVVM\\Views\\AsymmetricView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-23T20:57:27.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DigitalSignatureView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Cezar\\source\\repos\\encryption-app\\EncryptProjectTSI\\MVVM\\Views\\DigitalSignatureView.xaml.cs",
+              "RelativeDocumentMoniker": "EncryptProjectTSI\\MVVM\\Views\\DigitalSignatureView.xaml.cs",
+              "ToolTip": "C:\\Users\\Cezar\\source\\repos\\encryption-app\\EncryptProjectTSI\\MVVM\\Views\\DigitalSignatureView.xaml.cs",
+              "RelativeToolTip": "EncryptProjectTSI\\MVVM\\Views\\DigitalSignatureView.xaml.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAqwDoAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T20:57:17.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SymmetricView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Cezar\\source\\repos\\encryption-app\\EncryptProjectTSI\\MVVM\\Views\\SymmetricView.xaml.cs",
+              "RelativeDocumentMoniker": "EncryptProjectTSI\\MVVM\\Views\\SymmetricView.xaml.cs",
+              "ToolTip": "C:\\Users\\Cezar\\source\\repos\\encryption-app\\EncryptProjectTSI\\MVVM\\Views\\SymmetricView.xaml.cs",
+              "RelativeToolTip": "EncryptProjectTSI\\MVVM\\Views\\SymmetricView.xaml.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAqwDYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T20:16:01.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SymmetricView.xaml",
+              "DocumentMoniker": "C:\\Users\\Cezar\\source\\repos\\encryption-app\\EncryptProjectTSI\\MVVM\\Views\\SymmetricView.xaml",
+              "RelativeDocumentMoniker": "EncryptProjectTSI\\MVVM\\Views\\SymmetricView.xaml",
+              "ToolTip": "C:\\Users\\Cezar\\source\\repos\\encryption-app\\EncryptProjectTSI\\MVVM\\Views\\SymmetricView.xaml",
+              "RelativeToolTip": "EncryptProjectTSI\\MVVM\\Views\\SymmetricView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-23T20:15:38.006Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

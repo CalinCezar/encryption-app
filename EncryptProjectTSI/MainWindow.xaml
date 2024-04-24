@@ -4,71 +4,35 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:EncryptProjectTSI"
-        xmlns:userControl="clr-namespace:EncryptProjectTSI.Views.UserControls"
+        xmlns:userControl="clr-namespace:EncryptProjectTSI.CustomControls.UserControls"
+        xmlns:viewModel="clr-namespace:EncryptProjectTSI.MVVM.ViewModels"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+
+    <Window.DataContext>
+        <viewModel:MainWindowViewModel/>
+    </Window.DataContext>
+
     <Grid>
-        <Grid.RowDefinitions>
-            <RowDefinition Height="50"/>
-            <RowDefinition/>
-            <RowDefinition Height="140"/>
-        </Grid.RowDefinitions>
-
-        <StackPanel Orientation="Horizontal">
-            <Menu>
+        <ContentControl x:Name="CurrentVIew" Height="auto" Width="auto"
+                            Content="{Binding CurrentView}"/>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <Menu Height="50" Width="120">
                 <MenuItem Name="Simetric" Header="Simetric" FontSize="16" Height="50" Width="120" VerticalContentAlignment="Center" HorizontalContentAlignment="Center">
-                    <MenuItem Header="RSA" FontSize="16" Click="ShowSymmetricEncryptionWindow"/>
+                    <MenuItem Header="AES" FontSize="16" Command="{Binding SymmetricViewCommand}"/>
                 </MenuItem>
             </Menu>
-            <Menu>
+            <Menu Height="50" Width="120">
                 <MenuItem Name="Asimetric" Header="Asimetric" FontSize="16" Height="50" Width="120" VerticalContentAlignment="Center" HorizontalContentAlignment="Center">
-                    <MenuItem Header="RSA" FontSize="16" Click="ShowAsymmetricEncryptionWindow"/>
+                    <MenuItem Header="RSA" FontSize="16" Command="{Binding AsymmetricViewCommand}"/>
                 </MenuItem>
             </Menu>
-            <Menu>
+            <Menu Height="50" Width="120">
                 <MenuItem Name="DigitalSign" Header="Digital Sign" FontSize="16" Height="50" Width="120" VerticalContentAlignment="Center" HorizontalContentAlignment="Center">
-                    <MenuItem Header="RSA" FontSize="16" Click="ShowDigitalSignatureWindow"/>
+                    <MenuItem Header="RSA" FontSize="16" Command="{Binding DigSignatureCommand}"/>
                 </MenuItem>
             </Menu>
-            <Button x:Name="Encrypt" Content="Encrypt" FontSize="16" Height="auto" Width="80" Click="Encrypt_Click"/>
-            <Button x:Name="Decrypt" Content="Decrypt" FontSize="16" Height="auto" Width="80" Click="Decrypt_Click"/>
-            <Button x:Name="Reverse" Height="50" Width="60" Click="Reverse_Click">
-                <Image Source ="/images/reverse.png" Width="40" Height="40"/>
-            </Button>
         </StackPanel>
-
-        <Grid Grid.Row="1">
-            <Grid.ColumnDefinitions>
-                <ColumnDefinition/>
-                <ColumnDefinition/>
-            </Grid.ColumnDefinitions>
-
-            <Grid Grid.Column="0">
-                <Rectangle Fill="LightGray"/>
-                <userControl:InputText x:Name="Input" Height="auto" Width="auto" Placeholder="Text Input" />
-            </Grid>
-
-            <Grid Grid.Column="1">
-                <Rectangle Fill="LightGoldenrodYellow" />
-                <userControl:InputText x:Name="Output" Height="auto" Width="auto" Placeholder="Text Output" />
-            </Grid>
-
-        </Grid>
-        <Grid Grid.Row="2">
-            <Grid.ColumnDefinitions>
-                <ColumnDefinition/>
-                <ColumnDefinition/>
-            </Grid.ColumnDefinitions>
-
-            <Grid Grid.Column="0">
-                <Rectangle Fill="DimGray"/>
-                <userControl:InputText x:Name="PublicKey" Height="auto" Width="auto" Placeholder="Public Key" />
-            </Grid>
-            <Grid Grid.Column="1">
-                <Rectangle Fill="DimGray"/>
-                <userControl:InputText x:Name="PrivateKey" Height="auto" Width="auto" Placeholder="Privat Key" />
-            </Grid>
-        </Grid>
     </Grid>
 </Window>
 
